@@ -1,4 +1,4 @@
-package com.akiyama.noteapp
+package com.akiyama.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
